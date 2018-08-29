@@ -2,3 +2,6 @@
 composer.lock
 tests/runtime
 
+.idea
+.git
+.gitee
